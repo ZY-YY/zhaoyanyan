@@ -1,0 +1,7 @@
+2018-10-13 20:07:40,958 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-13 20:07:40,958 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 20:07:43,262 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-13 20:07:49,909 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 20:07:51,032 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-13 20:07:51,033 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-13 20:08:32,430 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x00000212EFB27DA0> 页面中未能找到 ('id', '#fastpostmessage') 元素

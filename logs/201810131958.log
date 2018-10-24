@@ -1,0 +1,7 @@
+2018-10-13 19:58:37,104 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-13 19:58:37,104 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 19:58:39,556 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-13 19:58:46,558 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 19:58:47,688 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-13 19:58:47,689 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-13 19:59:29,244 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x0000020C2B8E7D68> 页面中未能找到 ('id', '#subject') 元素

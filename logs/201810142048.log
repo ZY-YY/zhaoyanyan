@@ -1,0 +1,7 @@
+2018-10-14 20:48:22,560 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 20:48:22,562 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 20:48:25,135 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 20:48:32,923 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 20:48:34,059 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 20:48:34,064 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-14 20:50:22,440 - Basepage - ERROR -  <pageObject.luntan_toupiao.tp_page object at 0x000001FEB6AB9E10> 页面中未能找到 ('css selector', '#editorbox > ul > li:nth-child(2) > a') 元素

@@ -1,0 +1,7 @@
+2018-10-13 20:18:37,727 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-13 20:18:37,728 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 20:18:40,105 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-13 20:18:47,235 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 20:18:48,356 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-13 20:18:48,362 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-13 20:19:29,533 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x000001EF32837DA0> 页面中未能找到 ('css selector', '#subject') 元素

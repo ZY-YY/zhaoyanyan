@@ -1,0 +1,7 @@
+2018-10-14 20:29:29,038 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 20:29:29,038 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 20:29:31,581 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 20:29:38,975 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 20:29:40,112 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 20:29:40,114 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-14 20:31:16,679 - Basepage - ERROR -  <pageObject.luntan_toupiao.tp_page object at 0x00000295BA6A9CC0> 页面中未能找到 ('css selector', '# pollm_c_1 > p:nth-child(1) > input') 元素

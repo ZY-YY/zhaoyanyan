@@ -1,0 +1,12 @@
+2018-10-14 23:26:10,973 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 23:26:10,973 - BrowserEngine - INFO - The test server url is:http://192.168.43.176:8088/upload/forum.php
+2018-10-14 23:26:13,428 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 23:26:20,573 - BrowserEngine - INFO - Open url:http://192.168.43.176:8088/upload/forum.php
+2018-10-14 23:26:21,704 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 23:26:21,705 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-14 23:26:37,306 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 23:26:37,306 - BrowserEngine - INFO - The test server url is:http://192.168.43.176:8088/upload/forum.php
+2018-10-14 23:26:39,928 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 23:26:47,359 - BrowserEngine - INFO - Open url:http://192.168.43.176:8088/upload/forum.php
+2018-10-14 23:26:48,514 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 23:26:48,518 - BrowserEngine - INFO - set implicitly wait 10 seconds.

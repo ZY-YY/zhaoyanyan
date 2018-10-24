@@ -1,0 +1,8 @@
+2018-10-13 21:43:52,988 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-13 21:43:52,989 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 21:43:55,439 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-13 21:44:02,878 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 21:44:04,008 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-13 21:44:04,013 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-13 21:44:34,940 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x0000023405199EF0> 页面中未能找到 ('css selector', '.fl_icn img') 元素
+2018-10-13 21:44:47,522 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x0000023405199EF0> 页面中未能找到 ('id', 'subject') 元素

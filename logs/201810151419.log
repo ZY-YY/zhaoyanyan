@@ -1,0 +1,9 @@
+2018-10-15 14:19:52,425 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-15 14:19:52,426 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-15 14:19:54,735 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-15 14:20:02,491 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-15 14:20:03,615 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-15 14:20:03,619 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-15 14:22:35,279 - Basepage - ERROR -  <pageObject.luntan_toupiao.tp_page object at 0x0000013B6CCD6278> 页面中未能找到 ('css selector', '.pcht tbody tr:nth-child(2) td:nth-child(3)') 元素
+2018-10-15 14:22:39,337 - Basepage - INFO - get the message  .
+2018-10-15 14:22:49,868 - Basepage - ERROR -  <pageObject.luntan_toupiao.tp_page object at 0x0000013B6CCD64E0> 页面中未能找到 ('css selector', '.pcht tbody tr:nth-child(2) td:nth-child(3)') 元素

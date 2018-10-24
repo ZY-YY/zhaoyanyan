@@ -1,0 +1,20 @@
+2018-10-14 10:04:38,598 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 10:04:38,598 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 10:04:40,920 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 10:04:47,712 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 10:04:48,838 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 10:04:48,842 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-14 10:04:58,507 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 10:04:58,520 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 10:05:00,833 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 10:05:07,753 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 10:05:08,884 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 10:05:08,885 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-14 10:05:33,639 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x00000262E4FC76A0> 页面中未能找到 ('css selector', '.fl_icn a') 元素
+2018-10-14 10:05:41,655 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x00000262E4FC76A0> 页面中未能找到 ('id', 'subject') 元素
+2018-10-14 10:05:48,800 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 10:05:48,801 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 10:05:51,266 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 10:05:54,905 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-14 10:06:04,923 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 10:06:04,925 - BrowserEngine - INFO - set implicitly wait 10 seconds.

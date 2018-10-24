@@ -1,0 +1,7 @@
+2018-10-13 20:09:12,900 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-13 20:09:12,900 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 20:09:15,253 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-13 20:09:22,071 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-13 20:09:23,196 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-13 20:09:23,200 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-13 20:10:04,789 - Basepage - ERROR -  <pageObject.luntan_default.default_page object at 0x0000013A397E7DD8> 页面中未能找到 ('css selector', '.px') 元素

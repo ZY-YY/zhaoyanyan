@@ -1,0 +1,7 @@
+2018-10-15 00:08:53,129 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-15 00:08:53,130 - BrowserEngine - INFO - The test server url is:http://192.168.43.176:8088/upload/forum.php
+2018-10-15 00:08:55,757 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-15 00:09:02,511 - BrowserEngine - INFO - Open url:http://192.168.43.176:8088/upload/forum.php
+2018-10-15 00:09:03,640 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-15 00:09:03,643 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-15 00:09:51,982 - Basepage - ERROR -  <pageObject.luntan_sousuo.sousuotie_page object at 0x0000025D6A1E7F28> 页面中未能找到 ('css selector', '#toptb > div.y > a:nth-child(4)') 元素

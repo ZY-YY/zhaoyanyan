@@ -1,0 +1,8 @@
+2018-10-15 14:31:18,609 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-15 14:31:18,609 - BrowserEngine - INFO - The test server url is:http://192.101.1.28:8088/upload/forum.php
+2018-10-15 14:31:21,203 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-15 14:31:28,511 - BrowserEngine - INFO - Open url:http://192.101.1.28:8088/upload/forum.php
+2018-10-15 14:31:29,652 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-15 14:31:29,659 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-15 14:32:34,956 - Basepage - ERROR -  <pageObject.luntan_glzxjrlt.bankuaiguanli_page object at 0x000002BB92E24FD0> 页面中未能找到 ('css selector', '#um p a:nth-child(16)') 元素
+2018-10-15 14:32:38,977 - Basepage - ERROR -  <pageObject.luntan_glzxjrlt.bankuaiguanli_page object at 0x000002BB92E24DA0> 页面中未能找到 ('name', 'admin_password') 元素

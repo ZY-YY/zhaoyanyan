@@ -1,0 +1,7 @@
+2018-10-14 23:17:33,660 - BrowserEngine - INFO - You had selcet Chrome browser.
+2018-10-14 23:17:33,661 - BrowserEngine - INFO - The test server url is:http://192.168.43.176:8088/upload/forum.php
+2018-10-14 23:17:36,158 - BrowserEngine - INFO - starting Chrome browser.
+2018-10-14 23:17:43,860 - BrowserEngine - INFO - Open url:http://192.168.43.176:8088/upload/forum.php
+2018-10-14 23:17:44,990 - BrowserEngine - INFO - Maximize the curren window.
+2018-10-14 23:17:44,994 - BrowserEngine - INFO - set implicitly wait 10 seconds.
+2018-10-14 23:18:16,918 - Basepage - ERROR -  <pageObject.luntan_login_pagehome.login_page object at 0x000001FCE7D28F60> 页面中未能找到 ('id', 'ls_username') 元素
